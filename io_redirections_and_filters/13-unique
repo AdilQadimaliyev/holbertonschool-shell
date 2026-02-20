@@ -1,2 +1,2 @@
-cat > 13-unique <<'EOF'
+#!/bin/bash
 sort | uniq -u
