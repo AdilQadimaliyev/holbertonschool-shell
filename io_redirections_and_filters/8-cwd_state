@@ -1,2 +1,2 @@
-cat > 8-cwd_state <<'EOF
+#!/bin/bash
 ls -la > ls_cwd_content
