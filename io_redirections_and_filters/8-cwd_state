@@ -1,0 +1,2 @@
+cat > 8-cwd_state <<'EOF
+ls -la > ls_cwd_content
